@@ -1,4 +1,10 @@
-#  Budget Trackers
+# Budget Trackers
+
+## Live Site:
+
+[Budget Tracker](https://budgetstracker.herokuapp.com)
+
+## Description:
 
 Budget Tracker application to allow for offline access and functionality.
 
@@ -13,9 +19,10 @@ Offline Functionality:
 When brought back online:
 
   * Offline entries should be added to tracker.
+
 ## GIF/Image
 
-![site image](./public/Screen Shot.png)
+![site image](./public/ScreenShot.png)
 
 ## User Story
 AS AN avid traveller
